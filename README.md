@@ -1,4 +1,5 @@
 # Jogo Flappy Bird
+O pássaro é constantemente puxado para baixo e um toque na tela faz com que ele suba um pouco. É possível pressionar rapidamente para subir mais, porém cuidado para não perder o controle.
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
