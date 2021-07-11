@@ -6,7 +6,7 @@
 
 ## Para executar o programa
 > ```
-> 	git clone python nomedoarquivo.py
+>git clone python nomedoarquivo.py
 > ```
 
 ## Sobre a Autora
