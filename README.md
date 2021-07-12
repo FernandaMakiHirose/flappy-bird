@@ -9,6 +9,9 @@ IDE e Python instalados.
 >python flappy-bird.py
 > ```
 
+## Comandos
+Pular: botão de espaço.
+
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
 
