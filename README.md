@@ -6,7 +6,7 @@ IDE instalada
 
 ## Para executar o programa
 > ```
->git clone python flappy-bird.py
+>python flappy-bird.py
 > ```
 
 ## Sobre a Autora
