@@ -7,10 +7,9 @@ IDE e Python instalados.
 ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 
-## Para executar o programa
-> ```
->python flappy-bird.py
-> ```
+## Como jogar?
+No caminho: `\jogo-flappy-bird`, abra o terminal e digite: `python flappy-bird.py`
+
 
 ## Comandos
-Pular: botão de espaço.
+Pular: tecla espaço.
