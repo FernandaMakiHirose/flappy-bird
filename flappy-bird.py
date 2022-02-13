@@ -167,7 +167,7 @@ class Passaro:
 
 class Cano:
     # a distância entre um cano e outro
-    DISTANCIA = 200
+    DISTANCIA = 250
 
     # velocidade do cano
     VELOCIDADE = 5
@@ -280,7 +280,7 @@ def desenhar_tela(tela, passaros, canos, chao, pontos):
         cano.desenhar(tela)
 
     # colocando o texto dentro da tela com um texto branco
-    texto = FONTE_PONTOS.render(f"Pontuação: {pontos}", 1, (255, 255, 255))
+    texto = FONTE_PONTOS.render(f"{pontos}", 1, (255, 255, 255))
 
     # desenhando o texto no canto superior da tela
     tela.blit(texto, (TELA_LARGURA - 10 - texto.get_width(), 10))
