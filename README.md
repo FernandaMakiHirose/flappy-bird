@@ -4,12 +4,8 @@ O pássaro é constantemente puxado para baixo e um toque na tela faz com que el
 ## Requisitos
 IDE e Python instalados.
 
-## Licença
-Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
-
 ## Como jogar?
-No caminho: `\jogo-flappy-bird`, abra o terminal e digite: `python flappy-bird.py`
+Entre na pasta do projeto: `jogo-flappy-bird`, dentro dela abra o terminal e digite: `python flappy-bird.py` para jogar.
 
-
-## Comandos
+### Comandos
 Pular: tecla espaço.
