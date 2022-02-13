@@ -2,15 +2,13 @@
 O pássaro é constantemente puxado para baixo e um toque na tela faz com que ele suba um pouco. É possível pressionar rapidamente para subir mais, porém cuidado para não perder o controle.
 
 ## Requisitos
-IDE e Python instalados.
+- Python.
+- IDE/Terminal.
 
 ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 
-## Para executar o programa
-> ```
->python flappy-bird.py
-> ```
-
-## Comandos
-Pular: botão de espaço.
+## Como jogar?
+1. Clone o repositório.
+2. Dentro da pasta do projeto, abra o terminal e digite: `python flappy-bird.py` para jogar.
+Comando: Para fazer o pássaro pular aperte a tecla espaço do seu teclado.
