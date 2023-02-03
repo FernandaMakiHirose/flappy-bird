@@ -1,4 +1,4 @@
-## Como jogar?
+# Como jogar?
 1. Clone o repositório.
 2. Dentro da pasta do projeto, abra o terminal e digite: `python flappy-bird.py` para jogar.
 
